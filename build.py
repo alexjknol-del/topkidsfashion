@@ -266,6 +266,18 @@ def overig():
            inhoud, "0.7", kruimelpad=[("", "De winkel in Apeldoorn")])
 
     inhoud = """
+<h1>Hulpbronnen</h1>
+<p class="lead">Externe verwijzingen bij deze gids.</p>
+<p>Onderstaande partijen werken los van Top Kids Fashion. Ze staan hier omdat ze een onderwerp behandelen dat aan kleding raakt maar buiten het bestek van deze site valt.</p>
+<ul>
+<li><a href="https://mobiliteitexpert.nl/gezondheid/schoenen/pantoffels">Pantoffels voor ouderen</a>, pantoffels met een brede pasvorm en een stroeve zool, bedoeld voor thuisgebruik.</li>
+</ul>
+<p>Top Kids Fashion heeft geen zeggenschap over de inhoud van externe sites. Voorstellen voor deze pagina kunnen per e-mail naar <a href="mailto:info@topkidsfashion.nl">info@topkidsfashion.nl</a>.</p>
+"""
+    pagina("/hulpbronnen/", "Hulpbronnen", "Externe verwijzingen bij de kindermodegids van Top Kids Fashion: onderwerpen die buiten het bestek van deze site vallen.",
+           inhoud, "0.4", kruimelpad=[("", "Hulpbronnen")])
+
+    inhoud = """
 <h1>Contact</h1>
 <p class="lead">Top Kids Fashion is een gids over kindermode. Vragen, aanvullingen of een correctie op een van de pagina&rsquo;s zijn welkom per e-mail.</p>
 <p>E-mail: <a href="mailto:info@topkidsfashion.nl">info@topkidsfashion.nl</a></p>

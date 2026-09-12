@@ -250,6 +250,7 @@ def pagina(pad, titel, meta, inhoud, prio="0.6", kruimelpad=None, breed=False):
 <h4>Over deze site</h4>
 <ul>
 <li><a href="/winkel-apeldoorn/">De winkel in Apeldoorn</a></li>
+<li><a href="/hulpbronnen/">Hulpbronnen</a></li>
 <li><a href="/contact/">Contact</a></li>
 <li><a href="/privacybeleid/">Privacybeleid</a></li>
 <li><a href="/cookiebeleid/">Cookiebeleid</a></li>

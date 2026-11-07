@@ -271,6 +271,11 @@ def overig():
 <p>Onderstaande partijen werken los van Top Kids Fashion. Ze staan hier omdat ze een onderwerp behandelen dat aan kleding raakt maar buiten het bestek van deze site valt.</p>
 <ul>
 <li><a href="https://mobiliteitexpert.nl/gezondheid/schoenen/pantoffels">Pantoffels voor ouderen</a>, pantoffels met een brede pasvorm en een stroeve zool, bedoeld voor thuisgebruik.</li>
+<li><a href="https://www.tatanka.nl/nl/white-maeng-da-kratom/">White Maeng Da Kratom</a>, webshop met kratom en andere natuurproducten.</li>
+<li><a href="https://smartific.nl/shroomshop/magic-truffels/">Magic Truffels Online</a>, smartshop met onder meer magic truffels en kweeksets.</li>
+<li><a href="https://www.headshop.nl/nl/smartshop/">Smartshop</a>, headshop met smartshopproducten, rookwaren en accessoires.</li>
+<li><a href="https://www.paddo.shop/ecuadorian-paddo-growkit/">Ecuadorian paddo</a>, webshop met paddo growkits in verschillende soorten.</li>
+<li><a href="https://www.magictruffels.shop/">magictruffels.shop</a>, webshop met magic truffels en bijbehorende informatie.</li>
 </ul>
 <p>Top Kids Fashion heeft geen zeggenschap over de inhoud van externe sites. Voorstellen voor deze pagina kunnen per e-mail naar <a href="mailto:info@topkidsfashion.nl">info@topkidsfashion.nl</a>.</p>
 """
